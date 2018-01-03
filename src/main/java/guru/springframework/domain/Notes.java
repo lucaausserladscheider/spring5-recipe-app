@@ -9,8 +9,7 @@ import javax.persistence.*;
 /**
  * Created by jt on 6/13/17.
  */
-@Getter
-@Setter
+@Data
 @Entity
 public class Notes {
 
